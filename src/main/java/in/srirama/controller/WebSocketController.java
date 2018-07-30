@@ -17,10 +17,11 @@ public class WebSocketController {
 
     @MessageMapping("/send/message/{id}")
     public void onReceivedMessage(String message, @DestinationVariable("id") String id, SimpMessageHeaderAccessor headerAccessor){
-        System.out.println("****** message "+ message+" : " + id);
+        log.info("****** message : {} ",id);
 //        String sessionId = headerAccessor.getSessionAttributes().get("client-id").toString();
 //        System.out.println("sessionId : "+sessionId);
-        System.out.println("sessionId : "+headerAccessor.getSessionId());
-        this.template.convertAndSend("/chat/"+id,  message);
+        log.info("sessionId : {} ",headerAccessor.getSessionId());
+        headerAccessor.getSessionAttributes().put("username", "test");
+        this.template.convertAndSendToUser(id, "/chat",  message);
     }
 }
