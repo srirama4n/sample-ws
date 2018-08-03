@@ -2,6 +2,9 @@
 ws service
 https://github.com/salmar/spring-websocket-chat/tree/master/src/main/java/org/springframework/boot/actuate
 https://grokonez.com/spring-framework/spring-jms/spring-jms-activemq-implement-runtime-springboot-activemq-jmsresponse-application
+https://www.devglan.com/spring-boot/spring-websocket-integration-example-without-stomp
+https://github.com/developerworks/spring-websocket-without-stomp
+https://docs.spring.io/spring/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-reference/html/websocket.html
 
 ##### User Interface #####
 
@@ -102,3 +105,12 @@ start cmd.exe /k "TITLE nginx && D: && cd D:\nginx && start nginx"
 start cmd.exe /k "TITLE cap-internal-rating-ui && D: && cd D:\Users\sriramanimmala\Documents\derby-fedora\cap-internal-rating-ui && npm start"
 start cmd.exe /k "TITLE wiremock && D: && cd D:\wiremock && java -jar "D:\wiremock\wiremock-standalone-2.5.0.jar" --port=9999"
 
+Run the above shell script in any folder you want to share.
+
+Steps : 
+1. Paste the "server.sh" in the folder you want to share files.
+2. Change server.sh to executable from terminal using following command 
+        chmod u+x server.sh
+3. Run the server 
+        ./server.sh
+4. Any user in intranet can access folder files using the IP address provided by the script.
