@@ -9,11 +9,16 @@ https://docs.spring.io/spring/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-referen
 ##### User Interface #####
 
 1. HTML 5, CSS, SCSS
+1. Javascript
 1. Angular
 1. Angular Server Side Rendering
 1. React
 1. React Native
 1. Next JS
+1. NgRx
+1. RxJs
+1. Progressive Web Apps
+1. Web Security Fundamentals
 
 ##### Middle         #####
 
@@ -82,15 +87,25 @@ https://docs.spring.io/spring/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-referen
 1. Test Pyramid
 1. 12 Factors
 
+##### Big Data       #####
+
+1. Hadoop
+2. Spark
+3. Scala
+
 ##### Misc           #####
 
-1. MEAN
+1. MEAN (Mongo, Express, Angular, Node JS)
 1. block Chain
 1. Redis
 1. memcached
 1. Python
 1. Scala
 1. R
+1. Statistics and Probability
+1. ML
+1. DL
+1. hazelcast.org/plugins
 
 
 Syatem Set UP
@@ -114,3 +129,7 @@ Steps :
 3. Run the server 
         ./server.sh
 4. Any user in intranet can access folder files using the IP address provided by the script.
+
+https://kb.epam.com/display/EPMCBDCC/Big+Data+and+Data+Science+Interviewing+Process
+https://kb.epam.com/display/EPMCBDCC/Training+programs+in+details
+https://kb.epam.com/display/EPMCBDCC/Career+Development+Program+-+Big+Data
