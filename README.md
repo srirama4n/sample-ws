@@ -32,7 +32,9 @@ https://docs.spring.io/spring/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-referen
 1. Spring Batch
 1. Spring State Machine
 1. Spring Quartz
-1. Spring Boot Admin 
+1. Spring Boot Admin
+1. Spring Cloud Streams
+1. Spring Kafka
 
 ##### Integration    #####
 
