@@ -1,3 +1,41 @@
+##### System Design #####
+
+1. Vertical and Horizontal Scaling
+1. CAP Theorem
+1. ACID vs BASE
+1. Partitioning and Sharding Data
+     1. Consistent Hashing
+1. Optmistic and Pesimestic Locking
+1. Strong and Eventual Consistency
+1. Relational vs NoSQL db
+1. Type of NoSQL
+     1. Key value
+     1. wide column
+     1. document based
+     1. graph based
+ 1. Caching
+ 1. Data Ceneter/ Racks/ Hosts
+ 1. CPU/ Memory/ Harddrive/ Network Bandwidth
+ 1. Random vs Sequential read/write on disk
+ 1. Http vs Http 2 vs Web Sockets
+ 1. TCP/IP model
+ 1. ipv4 vs ipv6
+ 1. Tcp vs UDP
+ 1. DNS Lookup
+ 1. HTTPS & TLS
+ 1. Pulic Key Infrastructure and Certificate Authority
+ 1. Symmentric Vs Asymmentric Key
+ 1. Load Balancer L4 vs L7
+ 1. CDN's and Edge
+ 1. Bloom Filters vs count-min sketch
+ 1. Paxos - consensus over distributed hosts
+      1. Leade Election
+ 1. Design Patterns and Object Oriented Design
+ 1. Virtual Machines and Containers
+ 1. Publisher-Subscriber 
+ 1. Map Reduce
+ 1. Multithreading, Concurrency, Locks, Synchronization and CAS
+
 
 
 ##### User Interface #####
