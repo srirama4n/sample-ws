@@ -14,15 +14,26 @@ https://docs.spring.io/spring/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-referen
 1. Angular Server Side Rendering
 1. React
 1. React Native
+1. Vue Js
 1. Next JS
 1. NgRx
 1. RxJs
 1. Progressive Web Apps
 1. Web Security Fundamentals
+1. Web Sockets
+
+##### Security       #####
+
+1. Spring Security
+1. Kerberos Authentication
+1. Spring Vault
+1. Mutual Authentication
+1. Keystore
 
 ##### Middle         #####
 
-1. Java 8, 9, 10
+1. Java 8, 9, 10, 11
+1. Threads
 1. Spring Boot
 1. Spring Reactive
 1. Spring Security
@@ -35,6 +46,7 @@ https://docs.spring.io/spring/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-referen
 1. Spring Boot Admin
 1. Spring Cloud Streams
 1. Spring Kafka
+1. Spring Racative
 
 ##### Integration    #####
 
@@ -59,17 +71,19 @@ https://docs.spring.io/spring/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-referen
 1. Oracle DB
 1. Maria DB
 1. Different types of DB's
+1. Influx
+1. Postgres
+1. Redis
+1. memcached
+1. Neo4j
 
 ##### Cloud          #####
 
 1. Martin Documentation
 1. Different Concepts related to Micro
-1. Docker 
-1. Kubernetes
 1. Polyglot Micro Services
 1. Pivotal Cloud Foundry
 1. AWS
-1. AWS Lambda
 1. Azure
 1. Cloud Core
 1. Cloud Config (Config Server, Zookeeper Configuration, Consul Configuration)
@@ -81,6 +95,19 @@ https://docs.spring.io/spring/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-referen
 1. Pivotal Cloud Foundry Config Client
 1. Pivotal Cloud Foundry Service Registry
 1. Pivotal Cloud Foundry Circuit Breaker
+1. Service Mesh
+1. Istio
+1. Google Cloud Platform
+1. Reactive
+1. Transactions in Micro Services
+1. CQRS and Event Sourcing
+
+##### Serverless     #####
+
+1. AWS Lambda
+1. Googele Functions
+1. Serveless Architure
+1. Knative
 
 
 ##### Design         #####
@@ -92,22 +119,51 @@ https://docs.spring.io/spring/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-referen
 ##### Big Data       #####
 
 1. Hadoop
-2. Spark
-3. Scala
+1. Apache Spark
+1. Apache Flink
+1. APache Strome
 
 ##### Misc           #####
 
 1. MEAN (Mongo, Express, Angular, Node JS)
 1. block Chain
-1. Redis
-1. memcached
-1. Python
+1. hazelcast.org/plugins
+1. webassembly
+
+
+##### Languages       #####
+
+1. Kotlin
+1. Go-Lang
 1. Scala
+1. Groovy
+1. Python
+1. Rust
 1. R
+
+##### Protocols       #####
+
+1. dhcp
+2. udp
+3. Zigbee
+
+##### Containers      #####
+
+1. Containers
+2. Dockers
+3. Kuberneties
+4. Open Shift
+
+##### AI/ML          #####
+
 1. Statistics and Probability
 1. ML
 1. DL
-1. hazelcast.org/plugins
+
+##### Testing        #####
+
+1. Junit 5
+1. Prometus
 
 
 Syatem Set UP
