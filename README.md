@@ -24,6 +24,7 @@
 1. Spring Vault
 1. Mutual Authentication
 1. Keystore
+1. Oauth
 
 ##### Middle         #####
 
@@ -103,6 +104,8 @@
 1. Googele Functions
 1. Serveless Architure
 1. Knative
+1. Micronaut
+1. Quarks
 
 
 ##### Design         #####
@@ -142,6 +145,8 @@
 1. dhcp
 1. udp
 1. Zigbee
+1. CoApp
+1. Bluetooth
 1. Micro Python
 
 ##### Containers      #####
@@ -156,16 +161,22 @@
 1. Statistics and Probability
 1. ML
 1. DL
+1. ChatBot
 
 ##### Testing        #####
 
 1. Junit 5
 1. Prometus
 
-##### Build        #####
+##### Build         #####
 
 1. Maven
 1. Gradle
+
+##### Virtulization #####
+
+1. Augmented Realtiy
+1. Virtual Reality
 
 # sample-ws
 ws service
