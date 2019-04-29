@@ -97,11 +97,12 @@
 1. Reactive
 1. Transactions in Micro Services
 1. CQRS and Event Sourcing
+1. Apigee Gateway
 
 ##### Serverless     #####
 
 1. AWS Lambda
-1. Googele Functions
+1. Google Functions
 1. Serveless Architure
 1. Knative
 1. Micronaut
@@ -119,7 +120,7 @@
 1. Hadoop
 1. Apache Spark
 1. Apache Flink
-1. APache Strome
+1. Apache Strome
 
 ##### Misc           #####
 
@@ -127,7 +128,6 @@
 1. block Chain
 1. hazelcast.org/plugins
 1. webassembly
-1. Apigee
 
 
 ##### Languages       #####
