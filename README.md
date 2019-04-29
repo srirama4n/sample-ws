@@ -1,4 +1,4 @@
-#### System Design ####
+##### System Design #####
 
 1. Vertical and Horizontal Scaling
 1. CAP Theorem
