@@ -137,18 +137,19 @@
 1. Rust
 1. R
 
-##### Protocols       #####
+##### IOT       #####
 
 1. dhcp
-2. udp
-3. Zigbee
+1. udp
+1. Zigbee
+1. Micro Python
 
 ##### Containers      #####
 
 1. Containers
-2. Dockers
-3. Kuberneties
-4. Open Shift
+1. Dockers
+1. Kuberneties
+1. Open Shift
 
 ##### AI/ML          #####
 
