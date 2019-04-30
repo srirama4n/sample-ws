@@ -35,7 +35,7 @@
  1. Publisher-Subscriber 
  1. Map Reduce
  1. Multithreading, Concurrency, Locks, Synchronization and CAS
-
+ 1. SAGA Pattern
 
 
 ##### User Interface #####
