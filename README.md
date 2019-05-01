@@ -39,6 +39,10 @@
  1. SAGA Pattern
  1. Compating (https://github.com/scylladb/scylla/wiki/SSTable-compaction-and-compaction-strategies)
  1. Cassandra (https://docs.datastax.com/en/cassandra/3.0/cassandra/architecture/archTOC.html)
+ 1. Scalibility : http://highscalability.com/
+ 1. Algos : COREMAN, algoexpert.io, http://www.ardendertat.com/2012/01/09/programming-interview-questions/
+ 1. DB: 
+ 
  
 
 ##### User Interface #####
