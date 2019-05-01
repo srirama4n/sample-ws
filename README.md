@@ -4,11 +4,11 @@
 1. Vertical and Horizontal Scaling
 1. CAP Theorem
 1. ACID vs BASE
-1. Partitioning and Sharding Data
+1. Partitioning and Sharding Data (https://www.youtube.com/watch?v=5faMjKuB9bc)
      1. Consistent Hashing
 1. Optmistic and Pesimestic Locking
 1. Strong and Eventual Consistency
-1. Relational vs NoSQL db
+1. Relational vs NoSQL db (https://www.youtube.com/watch?v=xQnIN9bW0og)
 1. Type of NoSQL
      1. Key value
      1. wide column
@@ -26,7 +26,7 @@
  1. HTTPS & TLS
  1. Pulic Key Infrastructure and Certificate Authority
  1. Symmentric Vs Asymmentric Key
- 1. Load Balancer L4 vs L7
+ 1. Load Balancer L4 vs L7 (https://www.youtube.com/watch?v=K0Ta65OqQkY)
  1. CDN's and Edge
  1. Bloom Filters vs count-min sketch
  1. Paxos - consensus over distributed hosts
@@ -37,6 +37,8 @@
  1. Map Reduce
  1. Multithreading, Concurrency, Locks, Synchronization and CAS
  1. SAGA Pattern
+ 1. Compating (https://github.com/scylladb/scylla/wiki/SSTable-compaction-and-compaction-strategies)
+ 1. Cassandra (https://docs.datastax.com/en/cassandra/3.0/cassandra/architecture/archTOC.html)
  
 
 ##### User Interface #####
