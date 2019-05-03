@@ -1,6 +1,6 @@
 ##### System Design #####
 
-1. Course : https://www.educative.io/mycourses
+1. System Design Course : https://www.educative.io/mycourses
 1. Vertical and Horizontal Scaling
 1. CAP Theorem
 1. ACID vs BASE
@@ -43,6 +43,13 @@
  1. Algos : COREMAN, algoexpert.io, http://www.ardendertat.com/2012/01/09/programming-interview-questions/
  1. DB: 
  
+##### Transaction    #####
+1. ATOMIC
+1. ISOLATION Levels
+1. ACID
+1. Optmistic Locking and Pesmisting Locking: https://stackoverflow.com/questions/129329/optimistic-vs-pessimistic-locking
+1. OpLogs
+1. Terminology : https://raima.com/database-terminology/
  
 
 ##### User Interface #####
