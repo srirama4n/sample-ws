@@ -77,6 +77,8 @@
 1. Mutual Authentication
 1. Keystore
 1. Oauth
+1. Multifactor authentication
+
 
 ##### Middle         #####
 
