@@ -218,6 +218,8 @@
 1. ChatBot
 1. Block chain
 
+https://www.techopedia.com/breaking-into-machine-learning-5-online-courses-to-help-you-get-started/2/33926
+
 ##### Testing        #####
 
 1. Junit 5
