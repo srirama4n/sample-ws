@@ -42,6 +42,7 @@
  1. Scalibility : http://highscalability.com/
  1. Algos : COREMAN, algoexpert.io, http://www.ardendertat.com/2012/01/09/programming-interview-questions/
  1. DB: 
+ 1. MASA https://www.gartner.com/binaries/content/assets/events/keywords/applications/apps20i/retire_the_threetier_applica_308298.pdf
  
 ##### Transaction    #####
 1. ATOMIC
