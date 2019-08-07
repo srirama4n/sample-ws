@@ -218,6 +218,8 @@
 1. DL
 1. ChatBot
 1. Block chain
+1. https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/
+1. http://www.deeplearningbook.org/
 
 https://www.techopedia.com/breaking-into-machine-learning-5-online-courses-to-help-you-get-started/2/33926
 
