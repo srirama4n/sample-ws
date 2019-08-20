@@ -220,7 +220,8 @@
 1. Block chain
 1. https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/
 1. http://www.deeplearningbook.org/
-
+1. https://www.coursera.org/learn/language-processing
+ 
 https://www.techopedia.com/breaking-into-machine-learning-5-online-courses-to-help-you-get-started/2/33926
 
 ##### Testing        #####
