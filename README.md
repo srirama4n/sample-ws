@@ -1,3 +1,29 @@
+##### Action Items #####
+
+1. Paper
+1. Kaggle
+1. Meet-up & Conference
+1. White Paper
+1. Presentation - group, org
+1. Hackthon & Contest
+1. Open Source Contribution
+1. Certifications
+1. Books
+1. Scientific Papers
+1. Blog
+1. Video Channels
+1. EPAM Content
+
+##### Channels #####
+
+1. Medium
+1. Stackover flow
+1. Slack
+1. Quora
+1. Linkedin
+1. Pintrest
+1. Stack Exchange
+
 ##### System Design #####
 
 1. System Design Course : https://www.educative.io/mycourses
