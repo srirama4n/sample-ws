@@ -1,4 +1,4 @@
-##### Action Items #####
+##### Tech Action Items #####
 
 1. Paper
 1. Kaggle
@@ -14,6 +14,7 @@
 1. Video Channels
 1. EPAM Content
 
+
 ##### Channels #####
 
 1. Medium
@@ -23,6 +24,17 @@
 1. Linkedin
 1. Pintrest
 1. Stack Exchange
+
+#### P Action Items #####
+
+1. Typing
+1. Consistency
+1. Speak
+1. Procatination
+1. Complait
+1. Financial literacy
+1. Financial Goals
+1. Tech Goals
 
 ##### System Design #####
 
