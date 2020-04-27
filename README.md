@@ -68,7 +68,7 @@
  1. CDN's and Edge
  1. Bloom Filters vs count-min sketch
  1. Paxos - consensus over distributed hosts
-      1. Leade Election
+      1. Lead Election
  1. Design Patterns and Object Oriented Design
  1. Virtual Machines and Containers
  1. Publisher-Subscriber 
@@ -81,6 +81,7 @@
  1. Algos : COREMAN, algoexpert.io, http://www.ardendertat.com/2012/01/09/programming-interview-questions/
  1. DB: 
  1. MASA https://www.gartner.com/binaries/content/assets/events/keywords/applications/apps20i/retire_the_threetier_applica_308298.pdf
+
  
 ##### Transaction    #####
 1. ATOMIC
@@ -136,6 +137,7 @@
 1. Spring Cloud Streams
 1. Spring Kafka
 1. Spring Racative
+1. GraphQL
 
 ##### Integration    #####
 
@@ -165,6 +167,7 @@
 1. Redis
 1. memcached
 1. Neo4j
+1. GraphQL
 
 ##### Cloud          #####
 
