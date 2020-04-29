@@ -1,4 +1,4 @@
-##### Tech Action Items #####
+##### Tech #####
 
 1. Paper
 1. Kaggle
@@ -13,7 +13,8 @@
 1. Blog
 1. Video Channels
 1. EPAM Content
-
+1. Udemy
+1. Coursera
 
 ##### Channels #####
 
