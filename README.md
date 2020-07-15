@@ -92,6 +92,8 @@
 1. OpLogs
 1. Terminology : https://raima.com/database-terminology/
  
+##### Quantum #####
+1. https://qiskit.org/documentation/getting_started.html
 
 ##### User Interface #####
 
