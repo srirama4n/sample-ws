@@ -328,3 +328,5 @@ Steps :
 https://kb.epam.com/display/EPMCBDCC/Big+Data+and+Data+Science+Interviewing+Process
 https://kb.epam.com/display/EPMCBDCC/Training+programs+in+details
 https://kb.epam.com/display/EPMCBDCC/Career+Development+Program+-+Big+Data
+
+**** https://github.com/Developer-Y/cs-video-courses/blob/master/README.md
