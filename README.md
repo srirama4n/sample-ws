@@ -112,6 +112,7 @@
 1. Web Security Fundamentals
 1. Web Sockets
 1. PWA
+1. Micro Frontend
 
 ##### Security       #####
 
@@ -122,11 +123,12 @@
 1. Keystore
 1. Oauth
 1. Multifactor authentication
+1. LDAP - https://stackoverflow.com/questions/18756688/what-are-cn-ou-dc-in-an-ldap-search
 
 
 ##### Middle         #####
 
-1. Java 8, 9, 10, 11
+1. Java 8, 9, 10, 11, 12, 13
 1. Threads
 1. Spring Boot
 1. Spring Reactive
@@ -208,7 +210,6 @@
 1. Micronaut
 1. Quarks
 
-
 ##### Design         #####
 
 1. Design Patterns
@@ -221,6 +222,7 @@
 1. Apache Spark
 1. Apache Flink
 1. Apache Strome
+1. Data Lake
 
 ##### Misc           #####
 
@@ -262,15 +264,14 @@
 1. ML
 1. DL
 
-##### AI/ML          #####
+##### Others          #####
 
 1. ChatBot
 1. Block chain
 1. https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/
 1. http://www.deeplearningbook.org/
 1. https://www.coursera.org/learn/language-processing
- 
-https://www.techopedia.com/breaking-into-machine-learning-5-online-courses-to-help-you-get-started/2/33926
+1. https://www.techopedia.com/breaking-into-machine-learning-5-online-courses-to-help-you-get-started/2/33926
 
 ##### Testing        #####
 
@@ -294,10 +295,8 @@ https://www.techopedia.com/breaking-into-machine-learning-5-online-courses-to-he
 1. gRPC
 
 
-
-#### LDAP ####
-
-https://stackoverflow.com/questions/18756688/what-are-cn-ou-dc-in-an-ldap-search
+##### Others    #####
+1. Business
 
 # sample-ws
 ws service
