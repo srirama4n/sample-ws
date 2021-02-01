@@ -38,6 +38,7 @@
 1. Tech Goals
 1. Negotiation
 
+
 ##### System Design #####
 
 1. System Design Course : https://www.educative.io/mycourses
@@ -93,8 +94,7 @@
 1. OpLogs
 1. Terminology : https://raima.com/database-terminology/
  
-##### Quantum #####
-1. https://qiskit.org/documentation/getting_started.html
+
 
 ##### User Interface #####
 
@@ -263,6 +263,11 @@
 1. ML
 1. DL
 1. https://github.com/rasbt/deeplearning-models
+
+
+##### Quantum #####
+1. https://qiskit.org/documentation/getting_started.html
+1. https://qiskit.org/learn/intro-qc-qh/?utm_source=Twitter&utm_medium=Social&utm_campaign=Learn-Intro
 
 ##### Others          #####
 
