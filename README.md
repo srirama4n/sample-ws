@@ -260,6 +260,9 @@
 1. Statistics and Probability
 1. ML
 1. DL
+
+##### AI/ML          #####
+
 1. ChatBot
 1. Block chain
 1. https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/
@@ -272,6 +275,7 @@ https://www.techopedia.com/breaking-into-machine-learning-5-online-courses-to-he
 
 1. Junit 5
 1. Prometus
+1. Object Change JTest
 
 ##### Build         #####
 
