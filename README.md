@@ -36,6 +36,7 @@
 1. Financial literacy
 1. Financial Goals
 1. Tech Goals
+1. Negotiation
 
 ##### System Design #####
 
