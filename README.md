@@ -173,7 +173,6 @@
 1. Redis
 1. memcached
 1. Neo4j
-1. GraphQL
 
 ##### Cloud          #####
 
@@ -263,11 +262,13 @@
 1. Statistics and Probability
 1. ML
 1. DL
+1. https://github.com/rasbt/deeplearning-models
 
 ##### Others          #####
 
 1. ChatBot
 1. Block chain
+1. GraphQL
 1. https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/
 1. http://www.deeplearningbook.org/
 1. https://www.coursera.org/learn/language-processing
