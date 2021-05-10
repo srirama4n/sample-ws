@@ -366,4 +366,7 @@ https://kb.epam.com/display/EPMCBDCC/Career+Development+Program+-+Big+Data
 1. https://crosp.net/blog/software-architecture/clean-architecture-part-1-databse-vs-domain/        
 1. https://www.deeplearningbook.org/
 1. https://vladikk.com/
-1. https://projects.iq.harvard.edu/stat110/home          
+1. https://projects.iq.harvard.edu/stat110/home     
+1. (Very Imp ) https://www.connectedpapers.com/
+1. https://mediaspace.gatech.edu/playlist/dedicated/74258101/1_g5xwvbde/1_iw8fk73m
+1.       
