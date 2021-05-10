@@ -340,3 +340,30 @@ https://kb.epam.com/display/EPMCBDCC/Training+programs+in+details
 https://kb.epam.com/display/EPMCBDCC/Career+Development+Program+-+Big+Data
 
 **** https://github.com/Developer-Y/cs-video-courses/blob/master/README.md
+
+
+##### Sync Tabs: #####
+
+1. https://github.com/kamranahmedse/developer-roadmap
+1. (Imp Conferece) https://neurips.cc/
+1. https://medium.com/coders-camp/60-python-projects-with-source-code-919cd8a6e512
+1. (Verp Imp Content) https://github.com/Developer-Y/cs-video-courses#math-for-computer-scientist
+1. https://towardsdatascience.com/why-should-you-the-ai-product-manager-care-about-baseline-models-16af0d07b2b3
+1. ( 500 AI projects) https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+1. https://www.kite.com/get-kite/?utm_medium=referral&utm_source=youtube&utm_campaign=krishnaik&utm_content=description-only
+1. https://www.fearlessmotivation.com/2020/07/13/5-books-you-will-read-if-you-are-serious-about-improving-your-life/
+1. ( DL Key Papers) https://spinningup.openai.com/en/latest/spinningup/keypapers.html
+1. https://www.khanacademy.org/math/statistics-probability
+1. https://www.deeplearningbook.org/
+1. https://online-learning.harvard.edu/catalog?keywords=&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=
+1. https://www.deeplearningbook.org/contents/notation.html
+1. https://d2l.ai/
+1. https://dzone.com/articles/database-architectures-amp-use-cases-explained?edition=620294&utm_source=Weekly%20Digest&utm_medium=email&utm_campaign=Weekly%20Digest%202020-08-05
+1. https://www.angulararchitects.io/aktuelles/dynamic-module-federation-with-angular/
+1. https://www.backblaze.com/blog/whats-the-diff-hot-and-cold-data-storage/
+1. https://github.com/ranjan-sumit/Self-Driving-Car-Behavioral-Cloning-Project-
+1. https://www.baeldung.com/ddd-double-dispatch
+1. https://crosp.net/blog/software-architecture/clean-architecture-part-1-databse-vs-domain/        
+1. https://www.deeplearningbook.org/
+1. https://vladikk.com/
+1. https://projects.iq.harvard.edu/stat110/home          
