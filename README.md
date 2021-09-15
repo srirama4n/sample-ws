@@ -173,6 +173,10 @@
 1. Redis
 1. memcached
 1. Neo4j
+1. Graph DB
+1. Columnar DB
+1. Apache Parquet
+1. Berkeley DB
 
 ##### Cloud          #####
 
